@@ -1,5 +1,10 @@
 # js-collections-map-set
 
-Repository to have example code to demonstrate JavaScript Map and Set data structures.
+Repository for example code to demonstrate JavaScript Map and Set data structures.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-collections-map-set)
+# Set vs Array
+<img src="./img/set_vs_array.png" alt="set vs array " />
+
+# Set + Array = Better Together!
+<img src="./img/set_and_array.png" alt="set and array " />
+
